@@ -1,0 +1,7 @@
+{
+    "schema": {
+        "endpoint": "string",
+        "debug": "bool",
+        "log.file": "string"
+    }
+}
